@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711);
+    background-size: contain;
+    background-attachment: fixed;
+}
+div.Középső_oszlop {
+    background-color: rgb(255, 255, 255, 0.9);
+    max-width: 720px;
+    margin: auto;
+    border-radius: 70px;
+    padding: 30px;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+table.table2 tr td{
+    border: 5px solid black;
+    border-collapse: collapse;
+    width: 100px;
+    height: 45px;
+    text-align: center;
+}
+img {
+    mix-blend-mode: multiply;
+}
