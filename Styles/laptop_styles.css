@@ -2,6 +2,7 @@ body {
     background-image: url(https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711);
     background-size: cover;
     background-attachment: fixed;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 div.Termék_Oszlop {
     background-color: rgb(255, 255, 255, 0.9);
@@ -12,4 +13,23 @@ div.Termék_Oszlop {
 }
 img {
     mix-blend-mode: multiply;
+}
+div {
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgb(211, 211, 211);
+}
+h1 {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    text-align: center;
+}
+a:hover {
+    background-color: lightblue;
+}
+p {
+    text-align: center;
+    font-size: 25px;
 }
