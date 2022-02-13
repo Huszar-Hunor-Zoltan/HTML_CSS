@@ -33,3 +33,42 @@ p {
     text-align: center;
     font-size: 25px;
 }
+div.piros {
+    background-color: red;
+}
+div.feher {
+    background-color: white;
+}
+div.zold {
+    background-color: green;
+}
+h1.fob1 {
+    font-style: oblique;
+    color: red;
+}
+ul.fob11 {
+    color: blue;
+}
+h1.fob2 {
+    color: white;
+    font-style: oblique;
+}
+h1.fob3 {
+    color: green;
+    font-style: oblique;
+}
+ul.fob22 {
+    color: green;
+}
+h1.fob3 {
+    color: green;
+}
+li.pirosli {
+    color: red;
+}
+li.feherli {
+    color: white;
+}
+li.zoldli {
+    color: green;
+}
